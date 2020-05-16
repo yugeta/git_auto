@@ -1,0 +1,12 @@
+[
+  {
+    "type"  : "git",
+    "dir"  : "data/markdown_viewer",
+    "git"  : "https://github.com/yugeta/markdown_viewer.git"
+  },
+  {
+    "type"  : "git",
+    "dir"  : "data/scroll_function",
+    "git"  : "https://github.com/yugeta/scroll_function.git"
+  }
+]
